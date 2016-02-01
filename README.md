@@ -5,6 +5,7 @@
 [Build HTML Forms and Controls](https://coursework.galvanize.com/redirects/learning_experiences/58)
 
 [Intro to jQuery](https://coursework.galvanize.com/redirects/learning_experiences/33)
+
 This Covers :
  - Gather values from a form with Javascript
  - Discuss the relationship between JavaScript, the DOM API, and jQuery
@@ -20,6 +21,7 @@ This Covers :
 ### LE's not covered in either
 
 [JavaScript Object Model](https://coursework.galvanize.com/redirects/learning_experiences/75)
+
 This Covers :
  - Uses `this` to manipulate the current context
  - Creates “Classes” and Instances with JS
@@ -49,8 +51,6 @@ This Covers :
 [Use dotfiles to configure projects, environments, and tools](https://coursework.galvanize.com/redirects/learning_experiences/57)
 
 [Embed Rich Media using Audio & Video APIs](https://coursework.galvanize.com/redirects/learning_experiences/89)
-
-[](https://coursework.galvanize.com/redirects/learning_experiences)
 
 ### Can't Find LE
 
